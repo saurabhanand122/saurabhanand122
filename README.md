@@ -53,7 +53,7 @@ https://my-portfolio-saurabh-anand.vercel.app/
 # 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,tailwind,bootstrap,java,cpp,c,git,github,vscode,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,tailwind,bootstrap,java,cpp,c,git,github,vscode,firebase,postman,angular,postgres,redux" />
 </p>
 
 ---
@@ -62,11 +62,7 @@ https://my-portfolio-saurabh-anand.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhanand122&show_icons=true&theme=tokyonight" alt="stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhanand122&theme=tokyonight" alt="streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhanand122&layout=compact&theme=tokyonight" alt="langs"/>
 
 </p>
 
