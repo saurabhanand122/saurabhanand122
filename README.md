@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Saurabh Anand</h1>
 
 <h3 align="center">
@@ -113,4 +112,3 @@ Free MERN stack notes for students and beginners.
 # ✨ Fun Fact
 
 ⚡ I enjoy building projects, learning backend systems, and contributing to open-source communities.
-```
