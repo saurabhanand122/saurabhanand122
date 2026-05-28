@@ -72,20 +72,6 @@ https://my-portfolio-saurabh-anand.vercel.app/
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saurabhanand122&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabhanand122&theme=tokyo-night)](https://github.com/saurabhanand122)
-
----
-
 # 🔥 Featured Projects
 
 ### 🚑 SehatConnect
@@ -106,9 +92,3 @@ Free MERN stack notes for students and beginners.
 
 - 🟢 GitHub: https://github.com/saurabhanand122
 - 🔵 LinkedIn: https://www.linkedin.com/in/saurabh-anand-2b5620279/
-
----
-
-# ✨ Fun Fact
-
-⚡ I enjoy building projects, learning backend systems, and contributing to open-source communities.
