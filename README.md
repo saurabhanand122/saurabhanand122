@@ -1,127 +1,68 @@
-<h1 align="center">🚀 Saurabh Anand</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Anand</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack Engineer | Open Source Enthusiast
+Full Stack Developer | MERN Stack Enthusiast 🚀
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;Java+%7C+React+%7C+Node.js;Open+Source+Contributor;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Backend+Development+Learner;Building+Cool+Web+Projects" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=saurabhanand122&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
-<img src="https://img.shields.io/github/followers/saurabhanand122?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/saurabhanand122?style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhanand122&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-# ⚡ About Me
+# 🚀 About Me
 
-```javascript
-const saurabh = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    code: ["Java", "JavaScript", "C++"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB", "PostgreSQL"],
-        tools: ["Git", "GitHub", "Firebase", "Postman"]
-    },
-    currentlyLearning: [
-        "System Design",
-        "Scalable Backend Architecture",
-        "Advanced MERN Stack"
-    ],
-    goal: "Become a Top Software Engineer 🚀"
-};
-```
-
-- 🔭 Building Full Stack MERN Applications
-- 🌱 Learning Scalable Backend Systems
-- 💡 Exploring AI + Web Development
-- 🚀 Open Source Contributor
-- 🎯 Solving DSA Problems Daily
-- ⚡ Turning Ideas into Real Products
+- 🌱 Currently learning **Scalable Backend Systems**
+- 👨‍💻 Building **Full Stack MERN Projects**
+- 📚 Creating **Free Engineering Notes**
+- 💡 Interested in **AI + Web Development**
+- ⚡ Open Source Enthusiast
+- 🎯 Goal: Becoming a strong Full Stack Engineer
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/saurabhanand122">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<p align="left">
+<a href="https://github.com/saurabhanand122" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<a href="https://www.linkedin.com/in/saurabh-anand-2b5620279/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://www.linkedin.com/in/saurabh-anand-2b5620279/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:saurabh.anandofficial122@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
-
 </p>
 
 ---
 
-# 🌍 Portfolio
+# 🌐 Portfolio
 
-<p align="center">
+🔗 **Portfolio Website:**  
+https://my-portfolio-saurabh-anand.vercel.app/
 
-<a href="https://my-portfolio-saurabh-anand.vercel.app/">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+---
 
+# 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,tailwind,bootstrap,java,cpp,c,git,github,vscode,firebase,postman,angular,postgres,redux" />
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,bootstrap,java,cpp,c,git,github,vscode,postman,redux" />
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabhanand122&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhanand122&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhanand122&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saurabhanand122&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhanand122&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhanand122&theme=tokyonight" alt="streak"/>
 
 </p>
 
@@ -129,50 +70,21 @@ const saurabh = {
 
 # 🔥 Featured Projects
 
-## 🚑 SehatConnect
-Healthcare platform connecting hospitals and patients with a seamless digital experience.
+### 🚑 SehatConnect
+Healthcare platform connecting hospitals and users.
 
-## 🎓 Engineers Material
-A free educational resource platform helping engineering students access study materials.
+### 🎓 Engineers Material
+Free platform for engineering study resources.
 
-## 🌐 Portfolio Website
-Modern responsive portfolio showcasing projects, achievements, and technical skills.
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and skills.
 
-## 📘 MERN Learning Hub
-Free MERN Stack learning resources and notes for beginners.
-
----
-
-# 💻 Competitive Programming
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/DSA-Java-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Daily-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
-
-</p>
+### 📘 MERN Free Notes
+Free MERN stack notes for students and beginners.
 
 ---
 
-# 🎯 2026 Goals
+# 💻 Coding Profiles
 
-✅ Master MERN Stack
-
-✅ Learn System Design
-
-✅ Contribute More to Open Source
-
-✅ Build Impactful Products
-
-✅ Crack Top Software Engineering Roles
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00F7FF,100:0066FF&section=footer"/>
-
-</p>
+- 🟢 GitHub: https://github.com/saurabhanand122
+- 🔵 LinkedIn: https://www.linkedin.com/in/saurabh-anand-2b5620279/ correct it and make it more futurstics
