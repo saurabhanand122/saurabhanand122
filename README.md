@@ -27,7 +27,7 @@ Full Stack Developer | MERN Stack Enthusiast 🚀
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/saurabhanand122" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
@@ -50,9 +50,9 @@ https://my-portfolio-saurabh-anand.vercel.app/
 
 ---
 
-# 🛠️ Languages and Tools
+# ⚙️ Tech Arsenal
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,tailwind,bootstrap,java,cpp,c,git,github,vscode,firebase,postman,angular,postgres,redux" />
 </p>
 
@@ -71,10 +71,24 @@ Personal portfolio showcasing projects and skills.
 
 ### 📘 MERN Free Notes
 Free MERN stack notes for students and beginners.
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=saurabhanand122&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
 # 💻 Coding Profiles
 
 - 🟢 GitHub: https://github.com/saurabhanand122
-- 🔵 LinkedIn: https://www.linkedin.com/in/saurabh-anand-2b5620279/ correct it and make it more futurstics
+- 🔵 LinkedIn: https://www.linkedin.com/in/saurabh-anand-2b5620279/
+
+---
+
+<p align="center">
+✨ Building the Future, One Line of Code at a Time ✨
+</p>
