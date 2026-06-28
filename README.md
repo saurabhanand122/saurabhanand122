@@ -1,4 +1,4 @@
-resolve this error <h1 align="center">Hi 👋, I'm Saurabh Anand</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Anand</h1>
 
 <h3 align="center">
 Full Stack Developer | MERN Stack Enthusiast 🚀
@@ -71,14 +71,6 @@ Personal portfolio showcasing projects and skills.
 
 ### 📘 MERN Free Notes
 Free MERN stack notes for students and beginners.
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=saurabhanand122&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
